@@ -1,0 +1,31 @@
+.outer-div {
+	padding : 100px;
+	text-align:  center;
+}
+
+.inner-div {
+	margin : 0 auto;
+	width : 500px;
+	text-align:  center;
+	Font-Weight: Bold;
+	margin-top: 2cm;
+	
+}
+.erreur-class {
+	color: red;
+	Font-Weight: Bold;
+}
+
+.result-class {
+	color:green ;
+	Font-Weight: Bold;
+	margin-top: 1cm;
+	
+}
+
+.button-class {
+	background-color : white;
+	Font-Weight: Bold;
+	
+}
+

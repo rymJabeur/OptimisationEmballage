@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf15105793214780" configfile="/emballageOptimisation/src/main/webapp/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="*" id="pf15106027690893" outlinks="pf15106027690894" path="*"/>
+  <nodes xsi:type="pageflow:PFPage" name="emballage.xhtml" id="pf15106027690895" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" inlinks="pf15106027690894" path="/index.xhtml"/>
+  <links id="pf15106027690894" target="pf15106027690895" source="pf15106027690893" outcome="index"/>
+</pageflow:Pageflow>
